@@ -21,7 +21,7 @@ public class ComparatorExample {
 			empList.add(emp);
 		} 		
 		return empList;
-	}
+	} 
 
 	public static void main(String[] args) {
 		ComparatorExample comparatorExample = new ComparatorExample();
