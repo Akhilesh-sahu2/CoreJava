@@ -18,7 +18,7 @@ public class Employee implements Comparable<Employee> {
 	}
 	public void setAddress(String address) {
 		this.address = address;
-	}
+	} 
 	public String getDept() {
 		return dept;
 	}
