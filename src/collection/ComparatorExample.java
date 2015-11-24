@@ -19,7 +19,7 @@ public class ComparatorExample {
 			emp.setEmpAge(rnd.nextInt(50));
 			emp.setSallery(rnd.nextInt(100000));
 			empList.add(emp);
-		}		
+		} 		
 		return empList;
 	}
 
