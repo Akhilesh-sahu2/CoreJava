@@ -30,7 +30,7 @@ public class Employee implements Comparable<Employee> {
 	}
 	public void setSallery(int sallery) {
 		this.sallery = sallery;
-	} 
+	}
 	
 	public int getEmpAge() {
 		return empAge;

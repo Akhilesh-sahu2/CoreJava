@@ -46,7 +46,7 @@ public class ComparableExample {
 			System.out.println("Employee Age "+emp.getEmpAge());
 			System.out.println("Employee Salery "+emp.getSallery());
 			System.out.println("-------------------------------------------------------------");
-		}
+		} 
 	}
 		
 
